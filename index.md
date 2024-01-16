@@ -1,6 +1,7 @@
 ---
-title: Home
 layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
 ---
 
 # Simple JS Image Classifiers
