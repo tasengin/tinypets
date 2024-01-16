@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Home"
-permalink: https://tasengin.github.io/tinypets/
 ---
 # Simple JS Image Classifiers
 
